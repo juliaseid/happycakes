@@ -4,3 +4,7 @@
     margin-right: auto;
     width: 25%;
 }
+.flashy {
+  color: crimson;
+  font-style: italic;
+}
